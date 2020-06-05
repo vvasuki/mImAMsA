@@ -9,6 +9,10 @@ contents:
         url: /tags/
       - title: Categories
         url: /categories/
+  - title: संस्कृतम्
+    url: ../sanskrit/
+  - title: काव्यम्
+    url: ../kAvya/
   - title: Vishvas's home page
     url: https://vvasuki.github.io/
 #  - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
