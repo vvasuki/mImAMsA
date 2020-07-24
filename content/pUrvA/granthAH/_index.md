@@ -3,7 +3,7 @@ title: +ग्रन्थाः
 unicode_script: devanagari
 ---
 
-{{< figure src="../images/grantha-parichayaH.png" attributionclass="thumbnail">}}
+{{< figure src="../images/grantha-parichayaH.png"  class="thumbnail">}}
 
 
 ## शास्त्रोद्गमः
