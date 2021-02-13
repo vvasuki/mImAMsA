@@ -1,5 +1,5 @@
 ---
-title: ८२ टिप्पण्यः
+title: ८२ टिप्पन्यः
 
 ---
 - 4/307: E2: vā ya etā rātrīr upayanti

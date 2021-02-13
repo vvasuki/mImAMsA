@@ -1,5 +1,5 @@
 ---
-title: ०१ टिप्पण्यः
+title: ०१ टिप्पन्यः
 
 ---
 - 3/1: E2: 4,1; E4: 3,525; E6: 1,143. E5 enthält jetzt nur noch die ŚBh-Zitate der Bṛhatī und bleibt daher unberücksichtigt

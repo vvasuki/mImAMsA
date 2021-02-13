@@ -1,5 +1,5 @@
 ---
-title: ३३ टिप्पण्यः
+title: ३३ टिप्पन्यः
 
 ---
 - 5/91: E2: kim ekastomakasya. krator eṣa vāda utaikastomakasyānekastomakasya ceti. kiṃ

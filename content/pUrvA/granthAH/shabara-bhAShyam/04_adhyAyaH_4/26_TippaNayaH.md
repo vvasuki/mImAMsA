@@ -1,5 +1,5 @@
 ---
-title: २६ टिप्पण्यः
+title: २६ टिप्पन्यः
 
 ---
 - 4/103: E1 hat puroḍāśasya in Klammern

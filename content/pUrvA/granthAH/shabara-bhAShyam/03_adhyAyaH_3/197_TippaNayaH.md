@@ -1,5 +1,5 @@
 ---
-title: १९७ टिप्पण्यः
+title: १९७ टिप्पन्यः
 
 ---
 - 3/602: E1 gibt idaṃ padottaraṃ sūtram in Klammern

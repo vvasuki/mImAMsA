@@ -1,5 +1,5 @@
 ---
-title: ६९ टिप्पण्यः
+title: ६९ टिप्पन्यः
 
 ---
 - 5/211: E2: kutaḥ? pṛthaktvena

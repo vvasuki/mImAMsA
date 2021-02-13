@@ -1,5 +1,5 @@
 ---
-title: ६७ टिप्पण्यः
+title: ६७ टिप्पन्यः
 
 ---
 - 5/205: E2: uccanīcapuṇyapaṇo

@@ -1,5 +1,5 @@
 ---
-title: २५ टिप्पण्यः
+title: २५ टिप्पन्यः
 
 ---
 - 3/115: E2,4: devatayārthenaikadaivatyasya

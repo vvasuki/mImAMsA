@@ -1,5 +1,5 @@
 ---
-title: १०९ टिप्पण्यः
+title: १०९ टिप्पन्यः
 
 ---
 - 5/331: E2: kriyāniyamyatvāt

@@ -1,5 +1,5 @@
 ---
-title: २३ टिप्पण्यः
+title: २३ टिप्पन्यः
 
 ---
 - 6/89: E1,6; E2: yasyobhāv agnī anugatāv

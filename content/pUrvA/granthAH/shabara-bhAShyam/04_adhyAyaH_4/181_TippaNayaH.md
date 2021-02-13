@@ -1,5 +1,5 @@
 ---
-title: १८१ टिप्पण्यः
+title: १८१ टिप्पन्यः
 
 ---
 - 4/570: E1: śaunaḥśepam; E6: śaunaḥśepham

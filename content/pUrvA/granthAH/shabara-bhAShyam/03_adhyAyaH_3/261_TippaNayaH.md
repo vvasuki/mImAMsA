@@ -1,5 +1,5 @@
 ---
-title: २६१ टिप्पण्यः
+title: २६१ टिप्पन्यः
 
 ---
 - 3/738: E2,4: tatra yajamānakāṇḍe karmāṇy

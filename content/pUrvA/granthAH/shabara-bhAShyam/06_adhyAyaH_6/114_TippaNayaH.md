@@ -1,5 +1,5 @@
 ---
-title: ११४ टिप्पण्यः
+title: ११४ टिप्पन्यः
 
 ---
 - 6/308: E1,6; E2: vipratiṣedho hi bhavati

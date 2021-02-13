@@ -1,5 +1,5 @@
 ---
-title: १३ टिप्पण्यः
+title: १३ टिप्पन्यः
 
 ---
 - 6/30: E2: nāśeṣabhūtatvāt; E2 verzeichnet in der Fußnote ferner die Lesart śeṣabhūtatvāt der gedruckten Ausgaben

@@ -1,5 +1,5 @@
 ---
-title: १४७ टिप्पण्यः
+title: १४७ टिप्पन्यः
 
 ---
 - 5/439: E2: āmananti, somaṃ na vindeta

@@ -1,5 +1,5 @@
 ---
-title: ५६ टिप्पण्यः
+title: ५६ टिप्पन्यः
 
 ---
 - 4/189: E1,6 und E2 (Fn.); E2 om. kartṛdaṇḍasaṃyogo bhavati

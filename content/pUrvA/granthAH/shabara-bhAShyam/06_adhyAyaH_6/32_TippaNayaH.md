@@ -1,5 +1,5 @@
 ---
-title: ३२ टिप्पण्यः
+title: ३२ टिप्पन्यः
 
 ---
 - 6/131: E1 setzt vacanāntareṇa prāptasya in Klammern

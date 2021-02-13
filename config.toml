@@ -1,6 +1,6 @@
 baseURL = "https://vvasuki.github.io/mImAMsA/"
 languageCode = "en-us"
-title = "मीमांसायां विश्वासटिप्पण्यः"
+title = "मीमांसायां विश्वासटिप्पन्यः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true

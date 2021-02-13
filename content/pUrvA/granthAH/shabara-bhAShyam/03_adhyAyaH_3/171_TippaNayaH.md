@@ -1,5 +1,5 @@
 ---
-title: १७१ टिप्पण्यः
+title: १७१ टिप्पन्यः
 
 ---
 - 3/543: E2,4: prayujyamānāyā api hotā

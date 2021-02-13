@@ -1,5 +1,5 @@
 ---
-title: ६१ टिप्पण्यः
+title: ६१ टिप्पन्यः
 
 ---
 - 5/192: E2: puṃsa evādhikāra iti

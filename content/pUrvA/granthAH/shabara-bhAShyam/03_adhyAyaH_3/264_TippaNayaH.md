@@ -1,5 +1,5 @@
 ---
-title: २६४ टिप्पण्यः
+title: २६४ टिप्पन्यः
 
 ---
 - 3/749: E2,4: sruvaṃ ca srucaś ca saṃmṛḍḍhi

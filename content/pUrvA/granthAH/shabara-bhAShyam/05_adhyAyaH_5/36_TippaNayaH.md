@@ -1,5 +1,5 @@
 ---
-title: ३६ टिप्पण्यः
+title: ३६ टिप्पन्यः
 
 ---
 - 5/103: E2: pūrvam avadeyam

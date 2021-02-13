@@ -1,5 +1,5 @@
 ---
-title: ५१ टिप्पण्यः
+title: ५१ टिप्पन्यः
 
 ---
 - 6/180: E1; E2: abhyudayenāparāddhasyeti; E6: abhyudayenāparāhṇasyeti

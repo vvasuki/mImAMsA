@@ -1,5 +1,5 @@
 ---
-title: २५ टिप्पण्यः
+title: २५ टिप्पन्यः
 
 ---
 - 5/75: E1 gibt dīkṣaṇārthā in Klammern

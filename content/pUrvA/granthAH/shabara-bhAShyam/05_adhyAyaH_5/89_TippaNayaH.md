@@ -1,5 +1,5 @@
 ---
-title: ८९ टिप्पण्यः
+title: ८९ टिप्पन्यः
 
 ---
 - 5/272: E2: ity uttaraḥ pakṣaḥ. tad

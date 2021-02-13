@@ -1,5 +1,5 @@
 ---
-title: ८५ टिप्पण्यः
+title: ८५ टिप्पन्यः
 
 ---
 - 6/238: E2 (v.l.): pūrvavijñānaṃ bādhitvā

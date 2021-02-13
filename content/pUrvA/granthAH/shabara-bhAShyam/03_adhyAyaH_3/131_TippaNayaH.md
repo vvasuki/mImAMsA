@@ -1,5 +1,5 @@
 ---
-title: १३१ टिप्पण्यः
+title: १३१ टिप्पन्यः
 
 ---
 - 3/461: E2,4: kartavyāni bhaveyuḥ

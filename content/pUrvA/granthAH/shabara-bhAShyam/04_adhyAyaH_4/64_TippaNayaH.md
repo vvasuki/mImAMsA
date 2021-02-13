@@ -1,5 +1,5 @@
 ---
-title: ६४ टिप्पण्यः
+title: ६४ टिप्पन्यः
 
 ---
 - 4/226: E1 gibt yajaty ukte 'rthe in Klammern

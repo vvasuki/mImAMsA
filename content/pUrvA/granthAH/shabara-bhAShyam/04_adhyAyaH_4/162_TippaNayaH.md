@@ -1,5 +1,5 @@
 ---
-title: १६२ टिप्पण्यः
+title: १६२ टिप्पन्यः
 
 ---
 - 4/525: E1 (Fn.), E2: yajñasya chidyate

@@ -1,5 +1,5 @@
 ---
-title: १०७ टिप्पण्यः
+title: १०७ टिप्पन्यः
 
 ---
 - 4/372: E2, E1 (Fn.): āmanasyāmanasya devā iti

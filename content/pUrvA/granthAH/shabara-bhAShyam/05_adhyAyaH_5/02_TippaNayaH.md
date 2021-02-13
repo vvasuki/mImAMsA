@@ -1,5 +1,5 @@
 ---
-title: ०२ टिप्पण्यः
+title: ०२ टिप्पन्यः
 
 ---
 - 5/2: E2: tasyopariśyeta

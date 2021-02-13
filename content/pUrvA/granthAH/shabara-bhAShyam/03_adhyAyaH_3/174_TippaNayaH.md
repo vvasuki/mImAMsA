@@ -1,5 +1,5 @@
 ---
-title: १७४ टिप्पण्यः
+title: १७४ टिप्पन्यः
 
 ---
 - 3/548: E1 gibt phalacamasena yajetety arthaḥ in Klammern

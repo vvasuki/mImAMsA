@@ -1,5 +1,5 @@
 ---
-title: २३० टिप्पण्यः
+title: २३० टिप्पन्यः
 
 ---
 - 3/676: E2,4: santi camasādhvaryavaḥ

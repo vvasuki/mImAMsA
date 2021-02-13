@@ -1,5 +1,5 @@
 ---
-title: २७८ टिप्पण्यः
+title: २७८ टिप्पन्यः
 
 ---
 - 3/780: E2,4: vacanaṃ tat stutyākālānām

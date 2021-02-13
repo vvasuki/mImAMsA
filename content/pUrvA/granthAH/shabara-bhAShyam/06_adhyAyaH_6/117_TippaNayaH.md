@@ -1,5 +1,5 @@
 ---
-title: ११७ टिप्पण्यः
+title: ११७ टिप्पन्यः
 
 ---
 - 6/316: E1,6; E2: saptadaśo vai vaiśya

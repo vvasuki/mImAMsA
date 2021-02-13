@@ -1,5 +1,5 @@
 ---
-title: १८३ टिप्पण्यः
+title: १८३ टिप्पन्यः
 
 ---
 - 3/564: E2,4: saṃkṣepavistarābhyām

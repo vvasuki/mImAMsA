@@ -1,5 +1,5 @@
 ---
-title: ६९ टिप्पण्यः
+title: ६९ टिप्पन्यः
 
 ---
 - 4/260: E2: manyamānās ta evaṃ samāmananti

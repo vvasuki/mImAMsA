@@ -1,5 +1,5 @@
 ---
-title: २१७ टिप्पण्यः
+title: २१७ टिप्पन्यः
 
 ---
 - 3/649: E1 gibt sthitād uttaram in Klammern

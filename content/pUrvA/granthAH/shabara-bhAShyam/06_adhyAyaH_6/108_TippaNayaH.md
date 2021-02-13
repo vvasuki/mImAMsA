@@ -1,5 +1,5 @@
 ---
-title: १०८ टिप्पण्यः
+title: १०८ टिप्पन्यः
 
 ---
 - 6/301: E1,6; E2: phalacamasamaya

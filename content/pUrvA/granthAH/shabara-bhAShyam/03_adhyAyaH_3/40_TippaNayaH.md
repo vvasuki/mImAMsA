@@ -1,5 +1,5 @@
 ---
-title: ४० टिप्पण्यः
+title: ४० टिप्पन्यः
 
 ---
 - 3/162: E2: saṃnidhānāvacanāc ca, asya, E4: saṃnidhānād avacanāc ca, asya

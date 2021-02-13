@@ -1,5 +1,5 @@
 ---
-title: १५८ टिप्पण्यः
+title: १५८ टिप्पन्यः
 
 ---
 - 6/426: E1,6; E2: asti, pitṛyajñavad ubhayoś

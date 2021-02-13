@@ -1,5 +1,5 @@
 ---
-title: १४२ टिप्पण्यः
+title: १४२ टिप्पन्यः
 
 ---
 - 5/431: E1 gibt svāmitvena in Klammern

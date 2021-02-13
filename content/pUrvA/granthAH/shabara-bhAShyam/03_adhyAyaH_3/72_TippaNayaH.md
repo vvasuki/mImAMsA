@@ -1,5 +1,5 @@
 ---
-title: ७२ टिप्पण्यः
+title: ७२ टिप्पन्यः
 
 ---
 - 3/269: E2,4: akṛtakāryasaṃbandhaṃ

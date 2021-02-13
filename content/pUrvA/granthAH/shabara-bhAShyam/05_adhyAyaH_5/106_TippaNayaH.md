@@ -1,5 +1,5 @@
 ---
-title: १०६ टिप्पण्यः
+title: १०६ टिप्पन्यः
 
 ---
 - 5/320: E2: sūktavākaphalārthaṃ

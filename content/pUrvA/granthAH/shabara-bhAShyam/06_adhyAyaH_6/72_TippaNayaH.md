@@ -1,5 +1,5 @@
 ---
-title: ७२ टिप्पण्यः
+title: ७२ टिप्पन्यः
 
 ---
 - 6/216: E1,6; E2: samāmananti, tiṣṭo dīkṣā ityevamādi. yadi

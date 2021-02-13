@@ -1,5 +1,5 @@
 ---
-title: १७२ टिप्पण्यः
+title: १७२ टिप्पन्यः
 
 ---
 - 4/551: E1 (Fn.): yūpāntareṇocchritavyena

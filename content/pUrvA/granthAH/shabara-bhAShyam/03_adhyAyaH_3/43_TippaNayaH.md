@@ -1,5 +1,5 @@
 ---
-title: ४३ टिप्पण्यः
+title: ४३ टिप्पन्यः
 
 ---
 - 3/182: E1 gibt jyotiṣṭomasamākhyātaḥ in Klammern

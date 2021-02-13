@@ -1,5 +1,5 @@
 ---
-title: ६८ टिप्पण्यः
+title: ६८ टिप्पन्यः
 
 ---
 - 5/207: E1 (v.l.): patyaivam anumataṃ

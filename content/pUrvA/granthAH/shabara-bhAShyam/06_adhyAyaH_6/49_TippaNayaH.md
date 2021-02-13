@@ -1,5 +1,5 @@
 ---
-title: ४९ टिप्पण्यः
+title: ४९ टिप्पन्यः
 
 ---
 - 6/177: E1 hat dharmalakṣaṇārthā in Klammern

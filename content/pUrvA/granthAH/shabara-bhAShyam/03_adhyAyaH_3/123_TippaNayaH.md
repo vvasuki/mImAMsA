@@ -1,5 +1,5 @@
 ---
-title: १२३ टिप्पण्यः
+title: १२३ टिप्पन्यः
 
 ---
 - 3/447: E1 gibt yajamānārtham in Klammern

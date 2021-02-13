@@ -1,5 +1,5 @@
 ---
-title: १४६ टिप्पण्यः
+title: १४६ टिप्पन्यः
 
 ---
 - 4/491: E1 (Fn.,K): sādyaskraḥ somayāgaviśeṣaḥ

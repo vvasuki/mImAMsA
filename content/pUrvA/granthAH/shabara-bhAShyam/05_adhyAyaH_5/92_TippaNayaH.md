@@ -1,5 +1,5 @@
 ---
-title: ९२ टिप्पण्यः
+title: ९२ टिप्पन्यः
 
 ---
 - 5/281: E2: vacanāt. vacanam idaṃ bhavati, varṣāsu rathakāra ādadhīteti. na

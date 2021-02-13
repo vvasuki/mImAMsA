@@ -1,5 +1,5 @@
 ---
-title: ९४ टिप्पण्यः
+title: ९४ टिप्पन्यः
 
 ---
 - 4/340: E1 gibt cayane 'bhinirvṛtta in Klammern

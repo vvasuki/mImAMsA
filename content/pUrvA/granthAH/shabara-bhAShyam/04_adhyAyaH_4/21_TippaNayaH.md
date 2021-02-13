@@ -1,5 +1,5 @@
 ---
-title: २१ टिप्पण्यः
+title: २१ टिप्पन्यः
 
 ---
 - 4/75: E2: prayojakatvaṃ jñānam

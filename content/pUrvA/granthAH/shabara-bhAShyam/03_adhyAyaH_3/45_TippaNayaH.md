@@ -1,5 +1,5 @@
 ---
-title: ४५ टिप्पण्यः
+title: ४५ टिप्पन्यः
 
 ---
 - 3/186: E2: api ca kevalam eta evopadiṣṭāḥ, E4: api ca na kevalam eta evopadiṣṭāḥ

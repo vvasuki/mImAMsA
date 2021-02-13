@@ -1,5 +1,5 @@
 ---
-title: ११५ टिप्पण्यः
+title: ११५ टिप्पन्यः
 
 ---
 - 3/420: E2,4,6: karmaṇertset (karmaṇā īrtset)

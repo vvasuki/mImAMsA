@@ -1,5 +1,5 @@
 ---
-title: १८ टिप्पण्यः
+title: १८ टिप्पन्यः
 
 ---
 - 5/62: E2: klinnaṃ dārvabhyādadhyād ityevamādīny āhitāgnivratābhyāhitamātreṣv eva bhavantīti darśayati

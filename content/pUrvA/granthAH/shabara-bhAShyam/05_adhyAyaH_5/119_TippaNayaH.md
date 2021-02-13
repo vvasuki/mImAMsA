@@ -1,5 +1,5 @@
 ---
-title: ११९ टिप्पण्यः
+title: ११९ टिप्पन्यः
 
 ---
 - 5/360: E2: satataṃ hotavyam

@@ -1,5 +1,5 @@
 ---
-title: ३३ टिप्पण्यः
+title: ३३ टिप्पन्यः
 
 ---
 - 6/132: E2 (v.l.): na ca satyam etat, śakyo

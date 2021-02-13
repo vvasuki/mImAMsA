@@ -1,5 +1,5 @@
 ---
-title: ५९ टिप्पण्यः
+title: ५९ टिप्पन्यः
 
 ---
 - 6/195: E1,6; E2: saṃnayataḥ. kutaḥ. auṣadhasaṃyogāt

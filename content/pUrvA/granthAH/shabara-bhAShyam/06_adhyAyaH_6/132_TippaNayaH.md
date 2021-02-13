@@ -1,5 +1,5 @@
 ---
-title: १३२ टिप्पण्यः
+title: १३२ टिप्पन्यः
 
 ---
 - 6/357: E1,6,E2 (v.l.); E2: viśvajity adhikāraḥ

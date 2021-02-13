@@ -1,5 +1,5 @@
 ---
-title: १५२ टिप्पण्यः
+title: १५२ टिप्पन्यः
 
 ---
 - 3/505: E2,4: bhakṣo nātiprasajyata
